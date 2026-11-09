@@ -1,0 +1,5 @@
+,values,outside_150_400F
+geo_supply_temp_f,3760,80
+well::45-7::temp,3613,4
+well::45A-7::temp,2402,5
+well::44-7::temp,446,2
